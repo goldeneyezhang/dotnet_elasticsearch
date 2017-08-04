@@ -1,0 +1,12 @@
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\ElasticsearchTest.exe.config
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\ElasticsearchTest.exe
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\ElasticsearchTest.pdb
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Elasticsearch.Net.dll
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Nest.dll
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Newtonsoft.Json.dll
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Elasticsearch.Net.xml
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Nest.xml
+E:\netcode\ElasticsearchTest\ElasticsearchTest\bin\Debug\Newtonsoft.Json.xml
+E:\netcode\ElasticsearchTest\ElasticsearchTest\obj\Debug\ElasticsearchTest.csprojResolveAssemblyReference.cache
+E:\netcode\ElasticsearchTest\ElasticsearchTest\obj\Debug\ElasticsearchTest.exe
+E:\netcode\ElasticsearchTest\ElasticsearchTest\obj\Debug\ElasticsearchTest.pdb
