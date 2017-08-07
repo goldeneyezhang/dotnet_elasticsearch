@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ESProvider.cs" />
+    <Compile Include="ESRequest.cs" />
     <Compile Include="MeetupEvents.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
